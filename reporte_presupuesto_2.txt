@@ -1,0 +1,9 @@
+Cantidad de reportes hasta la fecha: 2
+Fecha de Solicitud: 10/07/2024
+Cantidad de Proyectos: 4
+
+Listado de Proyectos:
+id: 2, Plataforma Educativa Online, $250,000.00
+id: 3, Red de Distribución Logística, $500,000.00
+id: 4, Proyecto de Investigación Médica, $1,200,000.00
+id: 5, Sistema de Gestión de Inventarios, $700,000.00

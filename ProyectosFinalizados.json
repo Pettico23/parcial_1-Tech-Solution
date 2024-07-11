@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "Nombre del Proyecto": "Sistema de Gestión de Ventas",
+        "Descripción": "Desarrollo de un sistema para mejorar la gestión de ventas",
+        "Fecha de inicio": "05/09/2023",
+        "Fecha de Fin": "12/05/2029",
+        "Presupuesto": "$75,000.00",
+        "Estado": "Finalizado"
+    },
+    {
+        "id": 2,
+        "Nombre del Proyecto": "Plataforma Educativa Online",
+        "Descripción": "Creación de una plataforma digital para la educación a distancia",
+        "Fecha de inicio": "10/11/2022",
+        "Fecha de Fin": "15/07/2023",
+        "Presupuesto": "$250,000.00",
+        "Estado": "Finalizado"
+    },
+    {
+        "id": 3,
+        "Nombre del Proyecto": "Red de Distribución Logística",
+        "Descripción": "Optimización de la red de distribución de una desarrollo de logística",
+        "Fecha de inicio": "20/03/2019",
+        "Fecha de Fin": "30/11/2025",
+        "Presupuesto": "$500,000.00",
+        "Estado": "Finalizado"
+    }
+]

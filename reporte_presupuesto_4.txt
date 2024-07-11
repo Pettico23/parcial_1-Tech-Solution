@@ -1,0 +1,8 @@
+Cantidad de reportes hasta la fecha: 4
+Fecha de Solicitud: 10/07/2024
+Cantidad de Proyectos: 3
+
+Listado de Proyectos:
+id: 4, Proyecto de Investigación Médica, $1,200,000.00
+id: 7, Futuretech solutions, $5,000,000.00
+id: 8, Techsolution medical, $900,000.00

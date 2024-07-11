@@ -1,0 +1,8 @@
+Cantidad de reportes hasta la fecha: 3
+Fecha de Solicitud: 10/07/2024
+Cantidad de Proyectos: 3
+
+Listado de Proyectos:
+id: 4, Proyecto de Investigación Médica, $1,200,000.00
+id: 5, Sistema de Gestión de Inventarios, $700,000.00
+id: 6, Procrear, $650,000.00

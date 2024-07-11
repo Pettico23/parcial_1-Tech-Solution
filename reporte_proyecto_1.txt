@@ -1,0 +1,5 @@
+Cantidad de reportes hasta la fecha: 1
+Fecha de Solicitud: 10/07/2024
+
+Proyecto:
+1, Sistema de Gestión de Ventas, Desarrollo de un sistema para mejorar la gestión de ventas, 05/09/2023, 12/05/2029, $75,000.00, Finalizado

@@ -1,0 +1,10 @@
+id,Nombre del Proyecto,Descripción,Fecha de inicio,Fecha de Fin,Presupuesto,Estado
+1,Sistema de Gestión de Ventas,Desarrollo de un sistema para mejorar la gestión de ventas,05/09/2023,12/05/2029,"$75,000.00",Finalizado
+2,Plataforma Educativa Online,Creación de una plataforma digital para la educación a distancia,10/11/2022,15/07/2023,"$250,000.00",Finalizado
+3,Red de Distribución Logística,Optimización de la red de distribución de una desarrollo de logística,20/03/2019,30/11/2025,"$500,000.00",Finalizado
+4,Proyecto de Investigación Médica,Estudio clínico para desarrollar nuevos tratamientos médicos,08/08/2023,22/09/2025,"$1,200,000.00",Activo
+5,Sistema de Gestión de Inventarios,Implementación de un sistema para controlar inventarios en almacenes,19/08/2020,18/08/2024,"$700,000.00",Cancelado
+6,Procrear,Sistema de credito nacional para el desarrollo urbano dirigido a personas con declaracion de ingresos,11/05/2017,15/04/2025,"$650,000.00",Cancelado
+7,Futuretech solutions,Inversion en tecnologia de ia para el desarrollo de robot para operaciones en animales,22/05/2023,22/05/2026,"$5,000,000.00",Activo
+8,Techsolution medical,Desarrollo de Robot para operacion de animales,26/05/2020,26/04/2025,"$900,000.00",Cancelado
+9,Techpanter,Inversion en tecnologia de geolocalizacion para animales en peligro de extinsion,26/06/2019,15/04/2026,"$780,000.00",Activo

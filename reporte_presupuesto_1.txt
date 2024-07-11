@@ -1,0 +1,7 @@
+Cantidad de reportes hasta la fecha: 1
+Fecha de Solicitud: 10/07/2024
+Cantidad de Proyectos: 2
+
+Listado de Proyectos:
+id: 4, Proyecto de Investigación Médica, $1,200,000.00
+id: 5, Sistema de Gestión de Inventarios, $700,000.00
